@@ -1,5 +1,5 @@
 # SimpleSP
-A simplified way of handling SharedPreferences
+\nA simplified way of handling SharedPreferences
 //Call Simple SharedPreference
     SSP simplePref;
 //Saving text
