@@ -1,4 +1,16 @@
 # SimpleSP
+Update gradle
+   
+    allprojects {
+		repositories {
+			...
+			maven { url 'https://jitpack.io' }
+		}
+	}
+    
+	dependencies {
+	        compile 'com.github.Ebongutibe1:SimpleSP:master-SNAPSHOT'
+	}
 
 A simplified way of handling SharedPreferences
 
@@ -14,6 +26,7 @@ A simplified way of handling SharedPreferences
 
     String getIt = simplePref.get("saved","");
     editText.setText(getIt);
+    
     
 # It also supports floats,Double,int,booleans etc
 
