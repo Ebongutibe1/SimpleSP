@@ -9,7 +9,7 @@ Update gradle
 	}
     
 	dependencies {
-	        compile 'com.github.Ebongutibe1:SimpleSP:master-SNAPSHOT'
+	        compile 'com.github.ebongcreative:SimpleSP:2c45928595'
 	}
 
 A simplified way of handling SharedPreferences
