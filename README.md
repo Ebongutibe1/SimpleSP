@@ -8,8 +8,8 @@ Update gradle
 		}
 	}
     
-	dependencies {
-	        compile 'com.github.ebongcreative:SimpleSP:2c45928595'
+	dependencies
+	        compile 'com.github.ebongcreative:SimpleSP:1.1.0'
 	}
 
 A simplified way of handling SharedPreferences
